@@ -1,5 +1,3 @@
-# Hasan-Ali
-
 # 👋 Hi, I'm Hasan Ali!
 
 ### 🔹 Data Scientist | Blockchain Enthusiast | AI Explorer
