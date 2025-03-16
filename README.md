@@ -11,8 +11,7 @@ I'm a **data scientist** with expertise in **data analysis, database management,
 ---
 
 ## 🏫 Education  
-🎓 **Bachelor's in Data Science** – *Punjab University College of Information and Technology* (2023 - 2027)  
-📖 Key Topics: DSA | OOP | Computer Organization | Data Visualization  
+🎓 **Bachelor's in Data Science** – *Punjab University College of Information and Technology* (2023 - 2027)   
 
 ---
 
