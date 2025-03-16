@@ -1,17 +1,61 @@
-#  Hi, I'm Hasan Ali!
+# 👋 Hi, I'm Hasan Ali!  
+## 🚀 Data Scientist | Blockchain Enthusiast  
 
-###  Data Scientist | Blockchain Enthusiast | AI Explorer
+I'm a **data scientist** with expertise in **data analysis, database management, and programming**, driven by a passion for **blockchain development**. I love transforming raw data into actionable insights and exploring innovative tech solutions.  
 
--  I’m currently working on **Blockchain Development & Data Science**
--  I’m learning **Deep Learning & Web3**
--  How to reach me: [LinkedIn](https://linkedin.com/in/hassan-ali-61580629a) | [GitHub](https://github.com/Hasan-Ali158)
--  Ask me about **Python, Machine Learning, and Data Visualization**
+📍 **Lahore, Pakistan**  
+📧 [hassanimtiaz158@gmail.com](mailto:hassanimtiaz158@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hassan-ali-61580629a)  
+💻 [GitHub](https://github.com/Hasan-Ali158)  
 
-![Hasan Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasan-Ali158&show_icons=true&theme=radical)
+---
 
+## 🏫 Education  
+🎓 **Bachelor's in Data Science** – *Punjab University College of Information and Technology* (2023 - 2027)  
+📖 Key Topics: DSA | OOP | Computer Organization | Data Visualization  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Ali158&layout=compact&theme=radical)
+---
 
+## 🔬 Personal Projects  
+### 📊 Stack Overflow Developer Survey Analysis  
+- Analyzed **trends & demographics** from the **2024 Stack Overflow Survey**  
+- Used **Python, Matplotlib, Seaborn** for **data visualization & statistical analysis**  
+- Delivered **insights on developer preferences and industry trends**  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Ali158&theme=radical)
+### 💰 Budget Management System  
+- **Python + SQL + Tkinter/PyQt** based **financial management tool**  
+- Features **Income & Expense Tracking, Database Integration, and Reporting**  
 
+---
+
+## 💼 Work Experience  
+🚀 **Campus Ambassador** at **AICP (Artificial Intelligence Community of Pakistan)** (03/2023 - Present)  
+- **Organized AI workshops, seminars, and webinars**  
+- **Promoted AI awareness through social media & campus outreach**  
+- **Built connections with faculty & students to enhance AI learning**  
+
+---
+
+## 🛠️ Skills  
+✔ **Python** | **C++** | **SQL** | **Numpy & Pandas** | **Power BI**  
+✔ **Database Management** | **ML Models** | **Blockchain Development**  
+✔ **Cryptocurrency Trading** | **Excel**  
+
+---
+
+## 🎓 Certifications  
+🏆 **Microsoft** - Foundations of Python  
+🏆 **IBM** - Tools for Data Science & What is Data Science  
+🏆 **Google** - Crash Course on Python  
+
+---
+
+## 💡 Interests  
+📈 **Trading & Cryptocurrency**  
+🔒 **Cryptography**  
+💻 **Competitive Programming**  
+🧩 **Solving Real-World Problems**  
+
+---
+
+⭐ **Let's connect and collaborate!** 🚀
